@@ -1,4 +1,3 @@
-# sql-case-studies
 # SQL Case Studies 🗃️
 
 A growing collection of SQL solutions to real-world analytical 
