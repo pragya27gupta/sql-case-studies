@@ -53,7 +53,7 @@ Every solution follows this structure:
 -- Business Context: [Why this matters in real analytics work]
 
 -- Solution:
-[Your query here]
+[ query ]
 
 -- Insight:
 -- [One line: what decision could this data inform?]
@@ -68,7 +68,7 @@ Every solution follows this structure:
 | LeetCode | 5 | 30+ |
 | StrataScratch | 5 | 15+ |
 | HackerRank | 5 | 10+ |
-| **Total** | **0** | **55+** |
+| **Total** | **15** | **55+** |
 
 *(Updated regularly)*
 
