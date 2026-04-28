@@ -65,7 +65,7 @@ Every solution follows this structure:
 
 | Platform | Solved | Target |
 |----------|--------|--------|
-| LeetCode | 5 | 30+ |
+| LeetCode | 10 | 30+ |
 | StrataScratch | 5 | 15+ |
 | HackerRank | 5 | 10+ |
 | **Total** | **15** | **55+** |
