@@ -1,7 +1,7 @@
 # SQL Case Studies 🗃️
 
 A growing collection of SQL solutions to real-world analytical 
-problems — structured the way a data analyst actually thinks: 
+problems - structured the way a data analyst actually thinks: 
 understand the business problem first, then write the query.
 
 Each solution includes the original problem, my approach, 
